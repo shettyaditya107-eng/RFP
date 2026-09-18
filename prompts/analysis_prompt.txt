@@ -1,0 +1,7 @@
+
+Analyze an RFP/proposal as an enterprise requirements analyst.
+Extract source-supported requirements only.
+Use the hierarchy:
+Business Area -> Requirement Group -> Capability -> Requirement.
+Preserve page traceability, provide a supporting excerpt and confidence score.
+Do not invent requirements and remove duplicates.
