@@ -1,0 +1,155 @@
+[
+  {
+    "business_area": "Customer Management",
+    "requirement_group": "Authentication",
+    "capability": "User Login",
+    "requirement": "The customer shall login using the registered mobile number.",
+    "page_number": 1,
+    "source_excerpt": "The customer shall login using the registered mobile number.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Customer Management",
+    "requirement_group": "Authentication",
+    "capability": "Multi-Factor Authentication",
+    "requirement": "The system shall support two-factor authentication for all customer logins.",
+    "page_number": 1,
+    "source_excerpt": "The system shall support two-factor authentication for all customer logins.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Customer Management",
+    "requirement_group": "Account Information",
+    "capability": "Balance Inquiry",
+    "requirement": "The system shall allow customers to view their account balance.",
+    "page_number": 1,
+    "source_excerpt": "The system shall allow customers to view their account balance.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Customer Management",
+    "requirement_group": "Account Information",
+    "capability": "Statement Download",
+    "requirement": "Customers shall be able to download their account statement in PDF format.",
+    "page_number": 1,
+    "source_excerpt": "Customers shall be able to download their account statement in PDF format.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Transactions",
+    "requirement_group": "Fund Transfer",
+    "capability": "Fraud Prevention",
+    "requirement": "To reduce fraudulent transactions, the system shall require additional verification for high-value transfers.",
+    "page_number": 2,
+    "source_excerpt": "To reduce fraudulent transactions, the system shall require additional verification for high-value transfers.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Transactions",
+    "requirement_group": "Fund Transfer",
+    "capability": "Scheduled Transfers",
+    "requirement": "The system shall allow customers to schedule future-dated transfers.",
+    "page_number": 2,
+    "source_excerpt": "The system shall allow customers to schedule future-dated transfers.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Transactions",
+    "requirement_group": "Notifications",
+    "capability": "Email Alerts",
+    "requirement": "Customers shall receive an email notification for transactions above 1 lakh rupees.",
+    "page_number": 2,
+    "source_excerpt": "Customers shall receive an email notification for transactions above 1 lakh rupees.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Transactions",
+    "requirement_group": "Notifications",
+    "capability": "SMS Alerts",
+    "requirement": "The system shall send an SMS notification after a successful transaction.",
+    "page_number": 2,
+    "source_excerpt": "The system shall send an SMS notification after a successful transaction.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Reporting",
+    "requirement_group": "Operational Reports",
+    "capability": "Report Generation",
+    "requirement": "The system shall allow administrators to generate monthly transaction reports.",
+    "page_number": 3,
+    "source_excerpt": "The system shall allow administrators to generate monthly transaction reports.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Reporting",
+    "requirement_group": "Operational Reports",
+    "capability": "Report Export",
+    "requirement": "Reports shall be exportable in Excel format.",
+    "page_number": 3,
+    "source_excerpt": "Reports shall be exportable in Excel format.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Reporting",
+    "requirement_group": "Operational Reports",
+    "capability": "Data Retention",
+    "requirement": "The system shall retain transaction reports for a minimum period of seven years.",
+    "page_number": 3,
+    "source_excerpt": "The system shall retain transaction reports for a minimum period of seven years.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Service Levels",
+    "requirement_group": "Availability",
+    "capability": "System Availability",
+    "requirement": "The solution shall be available 99.5% of the time measured monthly.",
+    "page_number": 3,
+    "source_excerpt": "The solution shall be available 99.5% of the time measured monthly.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Service Levels",
+    "requirement_group": "Support",
+    "capability": "Operational Support",
+    "requirement": "The bidder shall provide support between 08:00 and 20:00 on working days.",
+    "page_number": 3,
+    "source_excerpt": "The bidder shall provide support between 08:00 and 20:00 on working days.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Commercial Terms",
+    "requirement_group": "Submission Terms",
+    "capability": "Bid Submission",
+    "requirement": "Bids must be submitted before 17:00 on 30 November.",
+    "page_number": 4,
+    "source_excerpt": "Bids must be submitted before 17:00 on 30 November. Late bids will be rejected.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Commercial Terms",
+    "requirement_group": "Pricing Terms",
+    "capability": "Price Validity",
+    "requirement": "Prices shall be quoted in Indian Rupees and shall remain valid for 120 days.",
+    "page_number": 4,
+    "source_excerpt": "Prices shall be quoted in Indian Rupees and shall remain valid for 120 days.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Security",
+    "requirement_group": "Access Control",
+    "capability": "User Authorization",
+    "requirement": "The system shall restrict administrative functions to authorised users.",
+    "page_number": 4,
+    "source_excerpt": "The system shall restrict administrative functions to authorised users.",
+    "confidence": 1.0
+  },
+  {
+    "business_area": "Security",
+    "requirement_group": "Data Protection",
+    "capability": "Data Encryption",
+    "requirement": "All customer data shall be encrypted in transit and at rest.",
+    "page_number": 4,
+    "source_excerpt": "All customer data shall be encrypted in transit and at rest.",
+    "confidence": 1.0
+  }
+]
